@@ -1,5 +1,5 @@
 owner=523953583440396290
-prefix=2M
+prefix=1
 game=M7md ux 
 stayinchannel=true
 songinstatus=false
