@@ -1,0 +1,6 @@
+owner=523953583440396290
+prefix=2M
+game=M7md ux 
+stayinchannel=true
+songinstatus=false
+token=NTg2NTg3ODkwMzEwNTc4MTgy.XPqMkQ.j9wKCQrQSpy6-aj7oBRhUeHu08I
